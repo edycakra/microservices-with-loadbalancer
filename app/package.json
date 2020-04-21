@@ -1,0 +1,24 @@
+{
+  "name": "microservices-with-loadbalancer",
+  "version": "1.0.0",
+  "description": "3 NodeJS + 1 Load Balancer containers",
+  "main": "index.js",
+  "scripts": {
+    "app": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edycakra/microservices-with-loadbalancer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edycakra/microservices-with-loadbalancer/issues"
+  },
+  "homepage": "https://github.com/edycakra/microservices-with-loadbalancer#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
